@@ -6,4 +6,6 @@
 - B
 - C
 
-This is a master branch working on a merge conflict
+Something from the test branch that will be in a merge conflict.
+
+Some other thing might happen...
